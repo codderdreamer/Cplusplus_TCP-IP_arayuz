@@ -1,0 +1,9 @@
+﻿  Source.cpp
+  SQLDatabase.cpp
+F:\C++\Sqlite çalışması\SQlite_server\SQlite_server\SQLDatabase.cpp(13,11): warning C4101: 'DB': unreferenced local variable
+  Generating Code...
+Source.obj : error LNK2019: unresolved external symbol _sqlite3_close referenced in function "public: int __thiscall SQLDatabase::createDB(char const *)" (?createDB@SQLDatabase@@QAEHPBD@Z)
+Source.obj : error LNK2019: unresolved external symbol _sqlite3_exec referenced in function "public: int __thiscall SQLDatabase::createTable(char const *)" (?createTable@SQLDatabase@@QAEHPBD@Z)
+Source.obj : error LNK2019: unresolved external symbol _sqlite3_free referenced in function "public: int __thiscall SQLDatabase::createTable(char const *)" (?createTable@SQLDatabase@@QAEHPBD@Z)
+Source.obj : error LNK2019: unresolved external symbol _sqlite3_open referenced in function "public: int __thiscall SQLDatabase::createDB(char const *)" (?createDB@SQLDatabase@@QAEHPBD@Z)
+F:\C++\Sqlite çalışması\SQlite_server\Debug\SQlite_server.exe : fatal error LNK1120: 4 unresolved externals

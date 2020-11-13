@@ -1,0 +1,7 @@
+Ip Address:192.168.1.105
+Total Pysical Memory:8,084 MB
+OS Name:Microsoft Windows 8.1 Single Language
+System Manufacturer:LENOVO
+Bios Version:LENOVO 9BCN29WW, 10/20/2014
+Ethernet:68-F7-28-A1-15-20
+Wifi:F4-06-69-94-96-AC

@@ -1,0 +1,43 @@
+  ServerMCinterface.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ServerMCinterface, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ServerMCinterface.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox textBox1 : Public
+    System.Windows.Forms.TextBox textBox2 : Public
+    System.Windows.Forms.TextBox textBox3 : Public
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.Label label12 : Public
+    System.Windows.Forms.TextBox TNumberOfClients : Public
+    System.Windows.Forms.Button button1 : Public
+    System.Windows.Forms.CheckBox checkHostName : Public
+    System.Windows.Forms.CheckBox checkService : Public
+    System.Windows.Forms.CheckBox checkIpAddress : Public
+    System.Windows.Forms.CheckBox checkBiosVersion : Public
+    System.Windows.Forms.CheckBox checkTotalPysicalMemory : Public
+    System.Windows.Forms.CheckBox checkSystemManufacturer : Public
+    System.Windows.Forms.CheckBox checkOsName : Public
+    System.Windows.Forms.CheckBox checkEthernet : Public
+    System.Windows.Forms.GroupBox groupBox1 : Public
+    System.Windows.Forms.DataGridView dataGridView1 : Public
+    System.Windows.Forms.CheckBox checkWifi : Public
+    System.ComponentModel.BackgroundWorker backgroundWorker1 : Public
+    System.ComponentModel.BackgroundWorker backgroundWorker2 : Public
+    System.ComponentModel.IContainer components : Public
+  Methods:
+    InitializeComponent(): PrivateScope, Public, HideBySig

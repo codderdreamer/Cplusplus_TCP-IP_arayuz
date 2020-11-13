@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  Source.cpp
+  Generating Code...
+F:\C++\ServerMC_İnterface\ServerMCinterface\ServerMCinterface\Source.cpp(146): warning C4715: 'Server::ReceivingFromText': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ServerMCinterface.vcxproj -> F:\C++\ServerMC_İnterface\ServerMCinterface\Debug\ServerMCinterface.exe
